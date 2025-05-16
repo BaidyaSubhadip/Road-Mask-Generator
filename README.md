@@ -27,3 +27,11 @@ Here are some examples from the training set showing input images, ground truth 
 | ![](Examples/img_2.png) | ![](Examples/ex_mask_2.png) |
 | ![](Examples/img_3.png) | ![](Examples/ex_mask_3.png) |
 
+## 🔍 Sample Result
+
+Here are result using our model.
+
+| Satellite Image | Ground Truth Mask |
+|-----------------|-------------------|
+| ![](Examples/test_1.png) | ![](Examples/result.png) |
+
