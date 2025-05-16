@@ -23,6 +23,7 @@ Here are some examples from the training set showing input images, ground truth 
 
 | Satellite Image | Ground Truth Mask |
 |-----------------|-------------------|
-| ![](examples/example_image_1.png) | ![](examples/example_mask_1.png) | ![](examples/predicted_mask_1.png) |
-| ![](examples/example_image_2.png) | ![](examples/example_mask_2.png) | ![](examples/predicted_mask_2.png) |
+| ![](Examples/img_1.png) | ![](Examples/ex_mask_1.png) |
+| ![](Examples/img_2.png) | ![](Examples/ex_mask_2.png) |
+| ![](Examples/img_3.png) | ![](Examples/ex_mask_3.png) |
 
