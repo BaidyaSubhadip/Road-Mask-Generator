@@ -33,5 +33,5 @@ Here are result using our model.
 
 | Satellite Image | Ground Truth Mask |
 |-----------------|-------------------|
-| ![](Examples/test_1.png) | ![](Examples/result.png) |
+| ![](Examples/test_1.png) | ![](Examples/result.webp) |
 
